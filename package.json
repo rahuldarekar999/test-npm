@@ -34,7 +34,7 @@
     "dagre": "^0.8.2",
     "fast-deep-equal": "^2.0.1",
     "kld-affine": "2.0.4",
-    "kld-intersections": "^0.4.3",
+    "kld-intersections": "^0.7.0",
     "line-intersect": "^2.1.1",
     "svg-intersections": "^0.4.0"
   },
