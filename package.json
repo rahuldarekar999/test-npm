@@ -18,7 +18,7 @@
     "core-util-is": "^1.0.1",
     "date-format": "0.0.2",
     "deep-extend": "0.4.0",
-    "dotty": "0.0.2",
+    "dotty": "0.1.2",
     "error": "^7.0.1",
     "inherits": "^2.0.1",
     "kafka-logger": "^7.1.0",
