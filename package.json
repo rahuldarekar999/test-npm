@@ -73,7 +73,6 @@
   },
   "overrides": {
     "braces": "$braces",
-    "webpack": "$webpack",
     "jsonwebtoken": "$jsonwebtoken",
     "node-forge": "$node-forge",
     "loader-utils": "$loader-utils",
